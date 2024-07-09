@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hola, Soy Vanessa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">Tengo 24 años y soy de El Salvador. Me considero una persona responsable y apasionada por la programación. Aunque mis conocimientos actuales son limitados, estoy constantemente aprendiendo nuevas tecnologías y metodologías. Si no encuentras algo específico aquí, es probable que ya esté en proceso de aprendizaje.</p>
+<p align="center">Tengo 24 años y soy de El Salvador. Me considero una persona responsable y apasionada por la programación. Aunque mis conocimientos actuales son limitados, estoy constantemente aprendiendo nuevas tecnologías y metodologías.</p>
 <br>
 
 - **Lenguajes**:
